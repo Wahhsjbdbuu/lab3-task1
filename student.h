@@ -1,4 +1,4 @@
-/* stu\udent.h */
+/* student.h */
 
 /* define stuctures */
 
@@ -18,4 +18,4 @@ struct stu_address stuAddress;
 
 /*define function */
 
-void sstodent(void);
+void sstudent(void);
